@@ -23,7 +23,11 @@ abstract public class PizzaProducto {
     abstract public void cortar();
 
     public void empaquetar() {
-        System.out.println("Pon la pizaa en una caja de empaque...");
+        System.out.println("Pon la pizz a en una caja de empaque...");
+    }
+
+    public String getNombre() {
+        return nombre;
     }
 
     @Override
