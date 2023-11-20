@@ -1,4 +1,4 @@
-package patrones_diseno;
+package patrones_diseno.singleton;
 
 public class EjemploSingleton {
     public static void main(String[] args) {
