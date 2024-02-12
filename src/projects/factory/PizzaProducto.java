@@ -1,4 +1,4 @@
-package patrones_diseno.factory;
+package projects.factory;
 
 import java.util.ArrayList;
 import java.util.List;

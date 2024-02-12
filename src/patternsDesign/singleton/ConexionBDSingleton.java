@@ -1,4 +1,4 @@
-package patrones_diseno.singleton;
+package patternsDesign.singleton;
 
 public class ConexionBDSingleton {
     private static ConexionBDSingleton instancia;

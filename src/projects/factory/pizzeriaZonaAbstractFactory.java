@@ -1,4 +1,4 @@
-package patrones_diseno.factory;
+package projects.factory;
 
 abstract public class pizzeriaZonaAbstractFactory {
     public PizzaProducto ordenarPizza(String tipo){

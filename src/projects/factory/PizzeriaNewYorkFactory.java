@@ -1,4 +1,4 @@
-package patrones_diseno.factory;
+package projects.factory;
 
 public class PizzeriaNewYorkFactory extends pizzeriaZonaAbstractFactory{
 
